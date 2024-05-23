@@ -1,0 +1,77 @@
+body{
+    display: inline-block;
+   background-color: #585252; /*cor de fundo     */
+   /*background-image: url(10.webp);*/
+  
+
+}
+.menus{
+    display: flex; /* coloca items lado a lado*/
+    margin-left: 600px;
+    color: rgb(238, 215, 215); /*cor da imagem*/
+    font-family: 'Times New Roman', Times, serif; /* fonte do texto*/
+    text-align: center;
+    gap: 2rem; /* isso afasta as opções do menu*/
+    
+}   
+
+button.menus2{
+    color: #f3e0e0;
+    background-color:transparent;
+    padding: 5px;
+    border: 1px solid transparent;
+    margin: 8px;
+    
+}
+
+button.contato{
+    color: #efffef;
+    background-color:transparent;
+    padding: 6px;
+    border: 1px solid rgb(22, 22, 22);
+    margin: 12px ;
+    width: 100px;
+    border-radius: 5px;
+    
+}
+button.CV{
+    text-align: ;
+    color: #cfeed7;
+    background-color:transparent;
+    padding: 10px;
+    border: 1px solid rgb(14, 11, 11);
+    margin: 12px ;
+    width: 200px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: rgb(27, 28, 29);
+
+}
+
+.Apresentação{
+    
+    text-align: left;
+    width: 500px;
+    height: 600px;
+    align-items: center;
+    color: #faf2f2;
+    font-family: 'Times New Roman', Times, serif; /* fonte do texto*/
+    padding:120px;
+
+   
+   
+}
+h1{
+
+    color: #201e1e;
+}
+h2{
+    color: #f8f5f5;
+   
+   }
+P{
+    color: #d0dbe9;
+   
+ }

@@ -1,0 +1,65 @@
+body{
+    display: inline-block;
+    padding: 0px;
+    border: none;
+    background-color: #fff4f4
+}
+
+.Quadro-contact{
+ color: white;
+ background-image: url(fundo-portfolio.jpg);
+ background-repeat: no-repeat ;
+ width: 400px;
+ height: 500px;
+ margin: 20px;
+ text-align: left;
+ gap: 1rem;
+ border-radius: 8px;
+ align-items: center;
+}
+
+.menus{
+    display: flex; /* coloca items lado a lado*/
+    margin-left: 600px;
+    color: rgb(0, 0, 0); /*cor da imagem*/
+    font-family: 'Times New Roman', Times, serif; /* fonte do texto*/
+    text-align: center;
+    gap: 2rem; /* isso afasta as opções do menu*/
+    margin: ;
+    
+}   
+
+button.menus2{
+    color: #161616;
+    background-color:transparent;
+    padding: 5px;
+    border: 1px solid transparent;
+    margin: 8px;
+    
+}
+
+button.contato{
+    color: #101110;
+    background-color:transparent;
+    padding: 6px;
+    border: 1px solid rgb(211, 202, 202);
+    margin: 12px ;
+    width: 100px;
+    border-radius: 5px;
+    
+}
+button.CV{
+    text-align: ;
+    color: #cfeed7;
+    background-color:transparent;
+    padding: 10px;
+    border: 1px solid rgb(14, 11, 11);
+    margin: 12px ;
+    width: 200px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: rgb(173, 208, 243);
+
+}
