@@ -1,6 +1,6 @@
 # Projetos-Html-css.
 
-Aqui estão alguns projetos desenvolvido em Html e css
+Aqui estão alguns projetos desenvolvido em HTML e CSS
 
 PROJETO PORTIFOLIO: 
 ![image](https://github.com/gustavosantt/Projetos-Html-css./assets/131564127/7320f8a7-fe48-41b0-a336-cb46ce0bf23b)
